@@ -1,4 +1,4 @@
 1 + 1
 
-1 + 2
-# "is the loneliest number".to_f
+str = "is the loneliest number"
+1 + str.to_f
